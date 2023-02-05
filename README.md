@@ -2,6 +2,7 @@
 the tact development resource
 
 ## Tact contract example
+- https://github.com/howardpen9/tact-nft-standard
 - https://github.com/Reveloper/tact-wallet
 - https://github.com/Reveloper/tact-jetton
 - https://github.com/Reveloper/tact-template
